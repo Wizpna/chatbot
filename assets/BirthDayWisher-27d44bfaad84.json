@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "birthdaywisher-ceda7",
+  "private_key_id": "27d44bfaad84e25e26977ab870b28193ccb16624",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC4PDKnsat0Uupe\n/avo3KZaowK+5RhVw5gisRWlAK+gHC4wE+QEV4iuLUZveLmO9rpSGvxISv0rpg1G\nUNsna7rpYGZZEWvrKeIxlIJf9md5yPbeIi2OvtQQQnqk0hFS3IXvqvg03LyJwA+t\nWP2tEpQDA74Q7k2EMWgYMDPS+PdBE8ziIxEzKY/+rlGpi0uFRSu1F4tfZH2Ys36Q\nNc7l2ISeBXzGaUTGpnxFAh2s7/IwYi3hmJQiyH3BLyDvpfUUv7uhmz5+Aixfk28U\n76e0JTXUF8W33L4mVFOHEKzKBBL+qguN6Uzw1jcqwR2wN4hEK5gg2gYsV7zZbC/8\nfRSWxAsnAgMBAAECgf9P5hgIOws+Tk37cWLwVfzDPIC07iv0hKkvWzsSld/cbWg4\nbL4Jm6Ts3ZkFtVuM8CJEssVzem9a+eDiPOuvMIlfBWc8HLCXrPWrOYlV50m18b0n\n6jMC0vkBJPKwd398SJdkL3h1P9n+TMXOtZXsSoWcE0Bu3d5ZYdNPDqSAk8wvkUNg\nI6qx8jgzKfHU5gIAOJunsxty2j/XoT/fs9LulhhPY5x2r6zCT3WaZtRvii+4mOwX\nTvDGdfAYxIrNgKBN3gvFicZTNofX2ij+ESsOImr9kQrffuIg9Ph0W7n4gqRvc6Gv\n8jx+JAJFagSU9WLs/Gt5CTLSmbPczP5xCrQC8OkCgYEA9EZUfVJ/cohiAKjT+ZV/\n5DfcqjEiHWV1FCvwGNJPmJW+H5WKsLb0OewLpnim6oIMxdm++gPkc+xU4rsNsQjT\nuWyWUN3/QKxMK5LbSdaBS/YPKAQuY8HDmA+pyoRfiCCUUUcI+AyN5BK3Xay9ahC2\n7rXE5dNVr5Ns8UgK9t4hGfkCgYEAwRQYlu553j5HdS83Pjw35iTCYgTFmUnmzxiE\nbZ4tXtngNuyVCHsMS/bSiQNP/ThwIbBdemwVWTIprZsZ0zSfZmqELiXXjPTorKFf\nthPqdC/kyfxbGOWFX3savaeResbPVPlw6Ztnp3hyKPhQkVl2PEnY3b2EKi6FjPma\nSPpalh8CgYEAkzGqCdZja92YyHLzQKsAZMHwmzF+MB6J3TzYsexRAE4DQb730qJ8\nKkb9gjOjyR3SmooqVTdxOxVG1VUH3AzIoCw5q8MJ46uvPnaA4055nQ9JdMCIP55r\nwT52/syjUEDpfsyCMA5Ilg1dJvpHLRmjUdaALkkZkfIRLJdP3BBf++kCgYBsuQw/\nsXoek6NZcYUCHpa7med7moRKlTrLU1r+/xs9ViLTytUBOYjrHcngLWVVifpafh2l\nWkeLOpwNjlE0hWVdHo3gDp8aWK7MxvJGbWCQnIeQ1fHWSyiXY5LjSQC6ykjl6LCU\nW1Y7D6/5MhrsPhw+Rrc/5gAOYLQDdmpSvedUsQKBgEeQJZSxQLgibOONM92tTVc6\nFni5b6IWL5YUJgVOqaZ0IhoWykHfdyjzWc5QR3DAYCtBhch2vx3WLPPwo/KHRV4D\n/FSJz8XowYwC5HZM9jeCaJPaXgw5XBN9KN1DewmUtBRR5TLRuVMWlZ8ozJknvpgt\nPWKjBqbadgcD092fHFTg\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-gxvsee@birthdaywisher-ceda7.iam.gserviceaccount.com",
+  "client_id": "109813111762363757322",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-gxvsee%40birthdaywisher-ceda7.iam.gserviceaccount.com"
+}
