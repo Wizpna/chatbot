@@ -1,9 +1,9 @@
-# portfolio_website
+# chatbot
 A simple chatbot built using flutter and dialogflow
 
 Screenshots:
 
-<img src="https://github.com/Wizpna/portfolio_website/blob/master/screenshots/Web_version_1.png"  title="portfolio_website_version">
+<img src="https://github.com/Wizpna/chatbot/blob/master/screenshot/Screenshot_20190728-214356.png"  title="chatbot">
 
 Contact - Let's become friends
 
