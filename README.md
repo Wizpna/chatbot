@@ -1,16 +1,14 @@
-# chatbot
+# portfolio_website
+A simple chatbot built using flutter and dialogflow
 
-A new Flutter project.
+Screenshots:
 
-## Getting Started
+<img src="https://github.com/Wizpna/portfolio_website/blob/master/screenshots/Web_version_1.png"  title="portfolio_website_version">
 
-This project is a starting point for a Flutter application.
+Contact - Let's become friends
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
