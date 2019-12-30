@@ -1,5 +1,8 @@
 # chatbot
-A simple chatbot built using flutter and dialogflow
+This is a simple project that will help you learn how to build a chatbot using flutter and dialogflow
+
+You can read an article about this project, which is on medium: https://medium.com/flutter-community/build-a-chatbot-in-20-minutes-using-flutter-and-dialogflow-8e9af1014463
+
 
 Screenshots:
 
